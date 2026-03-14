@@ -6,6 +6,9 @@
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple&logoColor=white)](https://apps.apple.com/jp/app/id1559502572)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/aYuQ7RqOSN4/0.jpg)](https://www.youtube.com/watch?v=aYuQ7RqOSN4)
+
 ## 🌟 Key Features
 - **Authentic Simulation:** Experience the thrill of a spinning drum and the visual satisfaction of a randomly selected colored ball.
 - **Customizable Inventory:** Assign prizes to up to **8 different colors** and set the exact number of winning balls for each.
